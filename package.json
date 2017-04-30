@@ -1,5 +1,5 @@
 {
-  "name": "butter-component-action-types",
+  "name": "butter-action-types",
   "version": "0.0.1",
   "description": "Action types and mapping for butter components",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/buttercomponents/butter-component-action-types.git"
+    "url": "git+https://github.com/buttercomponents/butter-action-types.git"
   },
   "keywords": [
     "action",
@@ -18,7 +18,7 @@
   "author": "Niv Sardi <x@btn.sh>",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/buttercomponents/butter-component-action-types/issues"
+    "url": "https://github.com/buttercomponents/butter-action-types/issues"
   },
-  "homepage": "https://github.com/buttercomponents/butter-component-action-types#readme"
+  "homepage": "https://github.com/buttercomponents/butter-action-types#readme"
 }
